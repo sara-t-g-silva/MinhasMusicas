@@ -11,7 +11,7 @@ public class Main {
         minhaMusica.setTitulo("lithium");
         minhaMusica.setCantor("Amy lee");
 
-        for (int i = 0; i < 1000; i++) {
+        for (int i = 0; i < 1000; i++) { // medidas de exemplos para se utilizar poo
             minhaMusica.reproduzir();
         }
 
